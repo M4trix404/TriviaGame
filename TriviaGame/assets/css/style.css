@@ -1,0 +1,16 @@
+
+
+ #button {
+     content: 'Start';
+     font-family: "Helvetica Neue", Tahoma;
+     background-color: greenyellow;
+
+ }
+
+
+#music { border-top: groove;
+    background-color: deeppink;
+    max-width: 960px;
+    height: 650px;
+}
+
